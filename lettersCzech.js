@@ -42,7 +42,7 @@ const lettersCzech = [
   "Ž"
 ];
 
-export const vowelsEnglish = [
+export const vowelsCzech = [
   "A",
   "Á",
   "E",

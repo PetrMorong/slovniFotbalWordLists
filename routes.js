@@ -1,6 +1,6 @@
 const routes = {
-  AUTHENTICATION: "Authentication",
-  HOME: "Home",
+  PRELOAD: "Preload",
+  MENU: "Menu",
   GAME: "Game",
   WAITING_FOR_OPONENT: "WaitingForOponent"
 };

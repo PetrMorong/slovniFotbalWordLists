@@ -1,0 +1,5 @@
+export const FIREBASE_CLOUD_FUNCTIONS_URL =
+  "https://console.firebase.google.com/project/slovnifotbal-23fed/overview";
+
+export const WORD_FOOTBALL_FB_PAGE_ACCESS_TOKEN =
+  "EAAgdxEqLNMIBAKTlizZA4xXx7mp5bG0nKZAxVixZBU5Kq12jVifoyT1ZC5NZBl3nv8IczC7gUMbAvRBl94m5joFPZBgv4YiiZAlZBmiLDQv48u34BZBEuJmFiqWxZARMcxuBjWaKckZCWC8DP21blnBOszqPQEsToI6eMc0sZBxp46WVhHmkFP12TrUQ";
