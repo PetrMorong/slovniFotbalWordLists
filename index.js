@@ -8,6 +8,8 @@ export const WORD_LIST_GERMAN =
   "https://raw.githubusercontent.com/paserak73/slovniFotbalWordLists/master/wordsGerman.js";
 
 //French words https://raw.githubusercontent.com/words/an-array-of-french-words/master/mots.json
+//Spanish https://github.com/words/an-array-of-spanish-words
+//Italian https://raw.githubusercontent.com/napolux/paroleitaliane/master/paroleitaliane/parole_uniche.txt
 
 export const FB_AD_TYPE_GAME_STARTED_INTERESTIAL = "gameStartedInterestial";
 export const FB_AD_TYPE_GAME_ENDED_INTERESTIAL = "gameEndedInterestial";
